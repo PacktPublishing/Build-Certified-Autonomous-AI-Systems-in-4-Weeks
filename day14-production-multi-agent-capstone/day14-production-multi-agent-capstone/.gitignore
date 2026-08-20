@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local environment
+.env
+.DS_Store
+
+# Code writer runtime files
+.code_writer_app.json
+.code_writer_app.log
+.code_writer_tunnel.log
+.code_writer_tunnel.json
+
+# Generated demo artifacts
+logs/*.jsonl
+outputs/*.md
+!logs/.gitkeep
+!outputs/.gitkeep

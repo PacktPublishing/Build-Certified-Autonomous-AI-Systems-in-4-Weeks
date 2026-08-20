@@ -1,0 +1,8 @@
+{
+  "event_id": "event_003_escalation",
+  "source": "support_ticket",
+  "subject": "Payment failure for enterprise customer",
+  "message": "An enterprise customer says their payment failed three times and their account may be downgraded today. They are blocked from accessing reports needed for a client meeting. They are asking for urgent help from the billing and support teams.",
+  "priority": "urgent",
+  "created_at": "2026-06-24T11:00:00"
+}

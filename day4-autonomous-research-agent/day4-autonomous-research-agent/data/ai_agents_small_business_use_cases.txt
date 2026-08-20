@@ -1,0 +1,15 @@
+Title: Use Cases for AI Agents in Small Businesses
+
+AI agents are useful in small businesses when they can follow a goal, choose a tool, take an action, observe the result, and continue until the task is complete.
+
+A sales agent can summarize leads, draft follow-up emails, and remind the owner which customers need attention.
+
+A support agent can answer common questions, search company documents, create support tickets, and escalate complex issues to a human.
+
+A finance agent can categorize expenses, explain invoice status, prepare payment reminders, and help summarize cash-flow information.
+
+A marketing agent can generate blog outlines, social media drafts, campaign ideas, and customer personas based on business notes.
+
+A research agent can collect information about competitors, summarize market trends, and prepare a short report for decision makers.
+
+The safest approach is to keep agents narrow, connect them only to approved tools, and require human review before sending messages, spending money, or changing important records.

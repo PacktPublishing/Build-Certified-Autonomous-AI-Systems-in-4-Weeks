@@ -1,0 +1,94 @@
+{
+  "saved_at": "2026-06-25T04:17:20.535705+00:00",
+  "inputs": {
+    "target_user": "Busy course creators who need to turn rough lesson ideas into polished lab plans",
+    "painful_workflow": "They have messy notes, scattered feature ideas, and no clear structure for what the student should build in the lab.",
+    "desired_output": "A clear product brief with product name, target user, painful workflow, features, score, and capstone-ready plan."
+  },
+  "best_idea": {
+    "name": "LessonBlueprint",
+    "one_liner": "A web-based platform to help course creators create and organize lab plans using a visual, feature-rich interface.",
+    "target_user": "Busy course creators who need to turn rough lesson ideas into polished lab plans for their students.",
+    "painful_workflow": "The pain point of having messy notes, scattered feature ideas, and no clear structure for what the student should build in the lab.",
+    "main_output": "A clear product brief with a target user, painful workflow, features, score, and capstone-ready plan.",
+    "why_it_could_spread": "Someone would share or recommend this to others due to its potential impact on course creation efficiency and student outcomes.",
+    "prototype_features": [
+      "Visual lab plan structure",
+      "Feature-rich interface for easy feature organization",
+      "Collaboration tools"
+    ],
+    "capstone_fit": "This is realistic for the final capstone as it addresses a common pain point in course creation and provides a clear, structured solution.",
+    "scores": {
+      "clarity": 80,
+      "pain_strength": 80,
+      "shareability": 65,
+      "capstone_buildability": 70,
+      "total": 74
+    }
+  },
+  "all_ideas": [
+    {
+      "name": "LessonBlueprint",
+      "one_liner": "A web-based platform to help course creators create and organize lab plans using a visual, feature-rich interface.",
+      "target_user": "Busy course creators who need to turn rough lesson ideas into polished lab plans for their students.",
+      "painful_workflow": "The pain point of having messy notes, scattered feature ideas, and no clear structure for what the student should build in the lab.",
+      "main_output": "A clear product brief with a target user, painful workflow, features, score, and capstone-ready plan.",
+      "why_it_could_spread": "Someone would share or recommend this to others due to its potential impact on course creation efficiency and student outcomes.",
+      "prototype_features": [
+        "Visual lab plan structure",
+        "Feature-rich interface for easy feature organization",
+        "Collaboration tools"
+      ],
+      "capstone_fit": "This is realistic for the final capstone as it addresses a common pain point in course creation and provides a clear, structured solution.",
+      "scores": {
+        "clarity": 80,
+        "pain_strength": 80,
+        "shareability": 65,
+        "capstone_buildability": 70,
+        "total": 74
+      }
+    },
+    {
+      "name": "LabPlan Creator",
+      "one_liner": "A simple, web-based tool to help course creators structure and organize rough lesson ideas into clear lab plans.",
+      "target_user": "Busy course creators who need to turn rough lesson ideas into polished lab plans for their students.",
+      "painful_workflow": "The pain point of having messy notes, scattered feature ideas, and no clear structure for what the student should build in the lab.",
+      "main_output": "A clear product brief with a target user, painful workflow, features, score, and capstone-ready plan.",
+      "why_it_could_spread": "Someone would share or recommend this to others due to its potential impact on course creation efficiency and student outcomes.",
+      "prototype_features": [
+        "Clear structure for lab plans",
+        "Easy note organization",
+        "Simple feature ideas"
+      ],
+      "capstone_fit": "This is realistic for the final capstone as it addresses a common pain point in course creation and provides a clear, structured solution.",
+      "scores": {
+        "clarity": 80,
+        "pain_strength": 80,
+        "shareability": 65,
+        "capstone_buildability": 65,
+        "total": 72
+      }
+    },
+    {
+      "name": "LabPlan Studio",
+      "one_liner": "A web-based tool to help course creators create, organize, and visualize lab plans using a simple, intuitive interface.",
+      "target_user": "Busy course creators who need to turn rough lesson ideas into polished lab plans for their students.",
+      "painful_workflow": "The pain point of having messy notes, scattered feature ideas, and no clear structure for what the student should build in the lab.",
+      "main_output": "A clear product brief with a target user, painful workflow, features, score, and capstone-ready plan.",
+      "why_it_could_spread": "Someone would share or recommend this to others due to its potential impact on course creation efficiency and student outcomes.",
+      "prototype_features": [
+        "Simple interface for easy lab planning",
+        "Collaboration tools for group projects",
+        "Real-time feedback"
+      ],
+      "capstone_fit": "This is realistic for the final capstone as it addresses a common pain point in course creation and provides a clear, structured solution.",
+      "scores": {
+        "clarity": 80,
+        "pain_strength": 80,
+        "shareability": 65,
+        "capstone_buildability": 65,
+        "total": 72
+      }
+    }
+  ]
+}

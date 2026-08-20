@@ -1,0 +1,13 @@
+Title: Benefits of AI Agents for Education
+
+AI agents can support education by helping learners practice, review, ask questions, and receive guided feedback.
+
+A tutoring agent can explain a concept, ask follow-up questions, check understanding, and adapt the next explanation to the learner's level.
+
+A study agent can summarize notes, generate flashcards, create practice quizzes, and help learners plan revision sessions.
+
+A teaching assistant agent can help instructors draft lesson plans, organize activities, review assignments, and prepare examples.
+
+AI agents are most useful in education when they support learning instead of replacing thinking. They should encourage learners to explain their reasoning, check sources, and practice independently.
+
+Important risks include inaccurate explanations, overdependence, privacy concerns, and uneven access to technology. Human oversight remains important.

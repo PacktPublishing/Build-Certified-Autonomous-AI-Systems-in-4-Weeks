@@ -1,0 +1,21 @@
+{
+  "project_name": "Local AI Knowledge Assistant",
+  "project_goal": "Help users ask questions, get AI responses, and understand how a local AI app is structured.",
+  "target_user": "Beginners learning practical AI app development",
+  "main_features": [
+    "Local Ollama AI responses",
+    "Simple app workflow",
+    "Clear setup instructions",
+    "Demo example prompts",
+    "Beginner-friendly documentation"
+  ],
+  "tech_stack": [
+    "Python",
+    "Ollama",
+    "llama3.2:1b",
+    "Markdown"
+  ],
+  "deployment_target": "Local machine first, with cloud-ready explanation",
+  "demo_scenario": "Run the app locally, ask a question, review the response, and explain the architecture.",
+  "portfolio_goal": "Make the capstone polished, easy to understand, and ready to present."
+}

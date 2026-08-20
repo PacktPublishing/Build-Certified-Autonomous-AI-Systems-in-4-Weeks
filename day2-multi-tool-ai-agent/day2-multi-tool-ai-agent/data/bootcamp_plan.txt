@@ -1,0 +1,4 @@
+Week 1 focuses on AI agent foundations, tool use, memory, RAG, and autonomous research agents.
+Week 2 focuses on production AI agents, APIs, interfaces, deployment, and multi-agent workflows.
+Week 3 focuses on advanced reasoning, automation, guardrails, governance, and persistent agents.
+Week 4 focuses on capstone projects, portfolio building, demo preparation, and graduation.

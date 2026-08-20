@@ -1,0 +1,14 @@
+{
+  "name": "Demo User",
+  "role": "AI learner",
+  "goals": [
+    "Build useful AI applications",
+    "Stay organized with tasks and notes",
+    "Use local AI tools without paid API keys"
+  ],
+  "preferences": [
+    "Beginner-friendly explanations",
+    "Short practical steps",
+    "Clear examples"
+  ]
+}

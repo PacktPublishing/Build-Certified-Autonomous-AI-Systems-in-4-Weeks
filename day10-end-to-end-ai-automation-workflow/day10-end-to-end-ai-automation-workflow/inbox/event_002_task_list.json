@@ -1,0 +1,8 @@
+{
+  "event_id": "event_002_task_list",
+  "source": "team_meeting_notes",
+  "subject": "Website launch planning",
+  "message": "The team needs to finish the pricing page, review the homepage copy, test the contact form, prepare the launch email, and confirm analytics tracking before Friday. Priya will review copy, Arjun will test the form, and the marketing team will prepare the launch email.",
+  "priority": "normal",
+  "created_at": "2026-06-24T10:00:00"
+}

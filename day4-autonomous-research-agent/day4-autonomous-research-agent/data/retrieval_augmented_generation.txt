@@ -1,0 +1,13 @@
+Title: Retrieval Augmented Generation
+
+Retrieval augmented generation, often called RAG, is a pattern where an AI system searches trusted information before generating an answer.
+
+Instead of relying only on the model's training data, the system retrieves relevant documents, passes that context into the prompt, and asks the model to answer using the provided evidence.
+
+A simple RAG workflow includes document loading, chunking, embedding or search, retrieval, prompt construction, answer generation, and source display.
+
+RAG is useful when answers need to be grounded in company documents, course material, support articles, policies, or other private knowledge.
+
+The main benefit of RAG is that it can reduce guessing and make answers easier to verify. The model still needs guardrails because it may misunderstand retrieved text or overstate what the evidence supports.
+
+For beginners, the simplest mental model is: search first, answer second.

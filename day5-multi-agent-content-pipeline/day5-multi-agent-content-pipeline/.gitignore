@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.code_writer_app.log
+.code_writer_run.json
+outputs/

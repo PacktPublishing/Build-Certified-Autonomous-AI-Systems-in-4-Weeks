@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.code_writer_app.json
+.code_writer_app.log
+outputs/*.md
+!outputs/.gitkeep

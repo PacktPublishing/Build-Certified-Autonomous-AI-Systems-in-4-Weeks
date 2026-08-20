@@ -1,0 +1,8 @@
+{
+  "event_id": "event_001_summary",
+  "source": "customer_email",
+  "subject": "Customer feedback about onboarding",
+  "message": "A new customer said the product is useful, but the onboarding steps are confusing. They liked the dashboard, but they were not sure how to connect their first data source. They asked for a shorter getting started guide and a sample project they can copy.",
+  "priority": "normal",
+  "created_at": "2026-06-24T09:00:00"
+}
